@@ -1,0 +1,10 @@
+{
+  "description": "Showcases premium leather products with detailed catalogs, company insights, and easy business inquiry tools for B2B leather industry professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
